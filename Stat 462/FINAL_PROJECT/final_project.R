@@ -1,0 +1,1 @@
+data = read.table('Final_Project_SP25.csv', sep=',', header=T)
